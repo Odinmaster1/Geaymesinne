@@ -3,10 +3,12 @@ using UnityEngine.SceneManagement;
 
 public class StartMenuMethods : MonoBehaviour
 {
-    public void StartButton()
+    public void StartButton(string sceneName)
     {
-        SceneManager.LoadScene("Level 1");
+        SceneManager.LoadScene(sceneName);
     }
+
+    
 
     public void QuitButton()
     {
