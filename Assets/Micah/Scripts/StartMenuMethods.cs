@@ -5,7 +5,7 @@ public class StartMenuMethods : MonoBehaviour
 {
     public void StartButton()
     {
-        SceneManager.UnloadScene("SampleScene");
+        SceneManager.LoadScene("Level 1");
     }
 
     public void QuitButton()
