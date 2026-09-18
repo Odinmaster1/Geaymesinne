@@ -1,6 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+[RequireComponent(typeof(Rigidbody2D), typeof(PlayerInput))]
 public class PlatFormerMovement : MonoBehaviour
 {
     [SerializeField] private float moveSpeed;
@@ -30,14 +31,6 @@ public class PlatFormerMovement : MonoBehaviour
         _movement = ctx.ReadValue<Vector2>().x * moveSpeed;
     }
 
-    public void Jump(InputAction.CallbackContext ctx)
-    {
-        if (ctx.ReadValue<float>() == 1  || !IsGrounded())
-        {
-        rb2d.linearVelocityY = jumpHeight;
-        }
-    }
-
     private bool IsGrounded()
     {
         // Check for ground using a Boxcast.
@@ -49,6 +42,14 @@ public class PlatFormerMovement : MonoBehaviour
 
     private void OnDrawGizmos()
     {
-        
+        Gizmos.DrawWireCube(transform.position + (Vector3)_boxOffset, _boxSize);
+    }
+
+    public void Jump(InputAction.CallbackContext ctx)
+    {
+        if (ctx.ReadValue<float>() == 1  && IsGrounded())
+        {
+        rb2d.linearVelocityY = jumpHeight;
+        }
     }
 }
