@@ -12,7 +12,7 @@ public class PlatFormerMovement : MonoBehaviour
 
     private Rigidbody2D rb2d;
 
-    private float _movement;
+    [HideInInspector] public float movement;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -23,12 +23,12 @@ public class PlatFormerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb2d.linearVelocityX = _movement;
+        rb2d.linearVelocityX = movement;
     }
 
     public void Move(InputAction.CallbackContext ctx)
     {
-        _movement = ctx.ReadValue<Vector2>().x * moveSpeed;
+        movement = ctx.ReadValue<Vector2>().x * moveSpeed;
     }
 
     private bool IsGrounded()
