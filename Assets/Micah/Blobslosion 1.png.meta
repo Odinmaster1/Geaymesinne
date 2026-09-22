@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 2bec8c2565b329244ba23c49b275f7af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7566346689286629521
+    second: Blobslosion 1_0
+  - first:
+      213: -803535289382526021
+    second: Blobslosion 1_1
+  - first:
+      213: 3063126682716956704
+    second: Blobslosion 1_2
+  - first:
+      213: -3298653750025146152
+    second: Blobslosion 1_3
+  - first:
+      213: -1336009763975997032
+    second: Blobslosion 1_4
+  - first:
+      213: -619963982429956176
+    second: Blobslosion 1_5
+  - first:
+      213: 5161610328534158868
+    second: Blobslosion 1_6
+  - first:
+      213: 1759105320005870767
+    second: Blobslosion 1_7
+  - first:
+      213: 9012104480287391942
+    second: Blobslosion 1_8
+  - first:
+      213: -8261651321069209970
+    second: Blobslosion 1_9
+  - first:
+      213: 6985896129183021794
+    second: Blobslosion 1_10
+  - first:
+      213: -8976516869864365622
+    second: Blobslosion 1_11
+  - first:
+      213: -4504836578118956594
+    second: Blobslosion 1_12
+  - first:
+      213: -1735216416564053357
+    second: Blobslosion 1_13
+  - first:
+      213: 1796264730036504102
+    second: Blobslosion 1_14
+  - first:
+      213: 4356902902859656500
+    second: Blobslosion 1_15
+  - first:
+      213: 5624014220653124277
+    second: Blobslosion 1_16
+  - first:
+      213: 8106300081970984939
+    second: Blobslosion 1_17
+  - first:
+      213: -8434003453718414182
+    second: Blobslosion 1_18
+  - first:
+      213: -1878884620112553481
+    second: Blobslosion 1_19
+  - first:
+      213: 6686212170982627405
+    second: Blobslosion 1_20
+  - first:
+      213: 6140321852033426991
+    second: Blobslosion 1_21
+  - first:
+      213: -6219590912295463065
+    second: Blobslosion 1_22
+  - first:
+      213: 2592733835304874554
+    second: Blobslosion 1_23
+  - first:
+      213: 1766003206965696059
+    second: Blobslosion 1_24
+  - first:
+      213: 9221549318075537787
+    second: Blobslosion 1_25
+  - first:
+      213: 3977352504335113431
+    second: Blobslosion 1_26
+  - first:
+      213: -384744490430310056
+    second: Blobslosion 1_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blobslosion 1_0
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 154
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198e166c930110960800000000000000
+      internalID: 7566346689286629521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 139
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb32ddf59e449d4f0800000000000000
+      internalID: -803535289382526021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0286d512d79628a20800000000000000
+      internalID: 3063126682716956704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0bdb034e3d832d0800000000000000
+      internalID: -3298653750025146152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 109
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899d1c9b23a857de0800000000000000
+      internalID: -1336009763975997032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 119
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7d9bdea027567f0800000000000000
+      internalID: -619963982429956176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 119
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e04451f39b1a740800000000000000
+      internalID: 5161610328534158868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 114
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa42379e7f8996810800000000000000
+      internalID: 1759105320005870767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c08c32d64d611d70800000000000000
+      internalID: 9012104480287391942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 104
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86788545e7b85d80800000000000000
+      internalID: -8261651321069209970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 99
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eafab14483e2f060800000000000000
+      internalID: 6985896129183021794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_11
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 89
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1ee6b67710d6380800000000000000
+      internalID: -8976516869864365622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec98806fffa9b71c0800000000000000
+      internalID: -4504836578118956594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39af54adcd54be7e0800000000000000
+      internalID: -1735216416564053357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6268364414d9de810800000000000000
+      internalID: 1796264730036504102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 69
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d61d53b14d67c30800000000000000
+      internalID: 4356902902859656500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 69
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba56c9e2238c0e40800000000000000
+      internalID: 5624014220653124277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_17
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7b99cb9fc5f7070800000000000000
+      internalID: 8106300081970984939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c32ba4b8664fa80800000000000000
+      internalID: -8434003453718414182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f91f3c846cdce5e0800000000000000
+      internalID: -1878884620112553481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_20
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 69
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4810506b823acc50800000000000000
+      internalID: 6686212170982627405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 49
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26650d013ec63550800000000000000
+      internalID: 6140321852033426991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 44
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7679160a4039fa9a0800000000000000
+      internalID: -6219590912295463065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_23
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32bb72bfad3bf320800000000000000
+      internalID: 2592733835304874554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 9
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36146f5f8a128810800000000000000
+      internalID: 1766003206965696059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7953a63f3689ff70800000000000000
+      internalID: 9221549318075537787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_26
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc976f9705623730800000000000000
+      internalID: 3977352504335113431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blobslosion 1_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859dc96acec19aaf0800000000000000
+      internalID: -384744490430310056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Blobslosion 1_0: 7566346689286629521
+      Blobslosion 1_1: -803535289382526021
+      Blobslosion 1_10: 6985896129183021794
+      Blobslosion 1_11: -8976516869864365622
+      Blobslosion 1_12: -4504836578118956594
+      Blobslosion 1_13: -1735216416564053357
+      Blobslosion 1_14: 1796264730036504102
+      Blobslosion 1_15: 4356902902859656500
+      Blobslosion 1_16: 5624014220653124277
+      Blobslosion 1_17: 8106300081970984939
+      Blobslosion 1_18: -8434003453718414182
+      Blobslosion 1_19: -1878884620112553481
+      Blobslosion 1_2: 3063126682716956704
+      Blobslosion 1_20: 6686212170982627405
+      Blobslosion 1_21: 6140321852033426991
+      Blobslosion 1_22: -6219590912295463065
+      Blobslosion 1_23: 2592733835304874554
+      Blobslosion 1_24: 1766003206965696059
+      Blobslosion 1_25: 9221549318075537787
+      Blobslosion 1_26: 3977352504335113431
+      Blobslosion 1_27: -384744490430310056
+      Blobslosion 1_3: -3298653750025146152
+      Blobslosion 1_4: -1336009763975997032
+      Blobslosion 1_5: -619963982429956176
+      Blobslosion 1_6: 5161610328534158868
+      Blobslosion 1_7: 1759105320005870767
+      Blobslosion 1_8: 9012104480287391942
+      Blobslosion 1_9: -8261651321069209970
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
