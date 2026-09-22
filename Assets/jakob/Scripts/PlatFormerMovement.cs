@@ -10,14 +10,14 @@ public class PlatFormerMovement : MonoBehaviour
     [SerializeField] private Vector2 _boxSize;
     [SerializeField] private LayerMask _boxLayer;
 
-    private Rigidbody2D rb2d;
+    public Rigidbody2D rb2d;
 
     [HideInInspector] public float movement;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        rb2d = GetComponent<Rigidbody2D>();
+       rb2d = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -35,7 +35,7 @@ public class PlatFormerMovement : MonoBehaviour
     {
         // Check for ground using a Boxcast.
         RaycastHit2D hit = Physics2D.BoxCast(transform.position + (Vector3) _boxOffset, _boxSize, 0, Vector2.zero,  0,  _boxLayer);
-        Debug.Log(hit.collider.name);
+        //Debug.Log(hit.collider.name);
 
         return hit;
     }
@@ -49,7 +49,7 @@ public class PlatFormerMovement : MonoBehaviour
     {
         if (ctx.ReadValue<float>() == 1  && IsGrounded())
         {
-        rb2d.linearVelocityY = jumpHeight;
+           rb2d.linearVelocityY = jumpHeight;
         }
     }
 }
